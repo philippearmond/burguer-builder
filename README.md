@@ -1,5 +1,5 @@
 ## General Info
-Project from React Complete Guide - (maximilian schwarzmüller)
+Build your burguer and check in
 
 ## Setup
 To run this project, install it locally using npm:
